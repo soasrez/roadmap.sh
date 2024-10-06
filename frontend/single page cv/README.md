@@ -4,10 +4,10 @@ In this project, you are required to create a single-page CV (Curriculum Vitae) 
 Key requirements for this project:
 
 <ul>
-  <li>Semantic HTML: Use appropriate HTML tags to structure your CV.</li>
-SEO Meta Tags: Include essential meta tags for SEO.
-Open Graph (OG) Tags: Add OG tags for better social media sharing.
-Favicon: Add a favicon for your CV page.
+  <li> Semantic HTML: Use appropriate HTML tags to structure your CV.</li>
+  <li> SEO Meta Tags: Include essential meta tags for SEO. </li>
+  <li> Open Graph (OG) Tags: Add OG tags for better social media sharing.</li>
+  <li> Favicon: Add a favicon for your CV page.</li>
 
 https://roadmap.sh/projects/single-page-cv
 
