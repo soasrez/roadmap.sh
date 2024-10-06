@@ -8,6 +8,7 @@ Key requirements for this project:
   <li> SEO Meta Tags: Include essential meta tags for SEO. </li>
   <li> Open Graph (OG) Tags: Add OG tags for better social media sharing.</li>
   <li> Favicon: Add a favicon for your CV page.</li>
+</ul>
 
 https://roadmap.sh/projects/single-page-cv
 
