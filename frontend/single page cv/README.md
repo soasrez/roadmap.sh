@@ -1,7 +1,15 @@
 # README
+
+In this project, you are required to create a single-page CV (Curriculum Vitae) using only HTML.
+Key requirements for this project:
+
+<ul>
+  <li>Semantic HTML: Use appropriate HTML tags to structure your CV.</li>
+SEO Meta Tags: Include essential meta tags for SEO.
+Open Graph (OG) Tags: Add OG tags for better social media sharing.
+Favicon: Add a favicon for your CV page.
+
 https://roadmap.sh/projects/single-page-cv
-# The Result
-![image](https://github.com/user-attachments/assets/4f9b3877-8524-46c5-a3df-e9536d3fb2e0)
 
 # Other Resources to complete this document:
 I use these resources to create such a cv projects:
